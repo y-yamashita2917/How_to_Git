@@ -3,4 +3,6 @@ Hello world!
 
 Welcome to Vscode!!
 
-pullpullpullpullpullpullpullpull
+(pullpullpullpullpullpullpullpull)
+
+gitの基本操作を学ぶ
