@@ -2,3 +2,10 @@
 Hello world!
 
 Welcome to Vscode!!
+<<<<<<< HEAD
+=======
+
+(pullpullpullpullpullpullpullpull)
+
+gitの基本操作を学ぶ
+>>>>>>> 886c749224283ad213be99b04903ddb770e9a5b8
